@@ -2,7 +2,7 @@
 
 ## [CobaltStrike Update](https://blog.zygd.site/CobaltStrike%20Update.html)
 
-[![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/cobaltstrike?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/cobaltstrike) [![Docker Build File](https://img.shields.io/badge/Dockerfile-Github-da282a)](https://github.com/XRSec/Docker-CobaltStrike) ![Cobalt Strikee Version](https://img.shields.io/badge/CobaltStrike-4.4-da282a)
+![version](https://img.shields.io/badge/Version-4.4-da282a) [![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/cobaltstrike?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/cobaltstrike) [![CobaltStrike Build](https://github.com/XRSec/Docker-CobaltStrike/actions/workflows/Docker-CobaltStrike.yml/badge.svg)](https://github.com/XRSec/Docker-CobaltStrike/actions/workflows/Docker-CobaltStrike.yml)
 
 ## [AWVS14 Update](https://blog.zygd.site/AWVS14%20Update.html)
 
