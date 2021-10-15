@@ -3,9 +3,9 @@
 ## [CobaltStrike Update](https://blog.zygd.site/CobaltStrike%20Update.html)
 ![version](https://img.shields.io/badge/Version-4.4-da282a) [![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/cobaltstrike?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/cobaltstrike)
 
-## [AWVS14 Update](https://blog.zygd.site/AWVS14%20Update.html)
-![version](https://img.shields.io/badge/Version-14.4.210913167-da282a)  [![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/awvs?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/awvs) [![AWVS14 Docker Build](https://github.com/XRSec/AWVS14-Docker/actions/workflows/AWVS14_Docker_Build.yml/badge.svg)](https://github.com/XRSec/AWVS14-Docker/actions/workflows/AWVS14_Docker_Build.yml)
+## ~~[AWVS14 Update](https://blog.zygd.site/AWVS14%20Update.html)~~
 
+![version](https://img.shields.io/badge/Version-14.4.210913167-da282a)  [![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/awvs?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/awvs) [![AWVS14 Docker Build](https://github.com/XRSec/AWVS14-Docker/actions/workflows/AWVS14_Docker_Build.yml/badge.svg)](https://github.com/XRSec/AWVS14-Docker/actions/workflows/AWVS14_Docker_Build.yml)
 
 ## [Goby Server By Docker](https://blog.zygd.site/Goby%20Server%20By%20Docker.html)
 [![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/goby?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/goby) [![Goby Docker Build](https://github.com/XRSec/Goby-Docker/actions/workflows/Goby-Docker.yml/badge.svg)](https://github.com/XRSec/Goby-Docker/actions/workflows/Goby-Docker.yml)
