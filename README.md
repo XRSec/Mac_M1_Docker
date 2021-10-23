@@ -1,7 +1,7 @@
 # Mac M1 Docker Adaptation plans
 
 ## [CobaltStrike Update](https://hub.docker.com/r/xrsec/cobaltstrike)
-![version](https://img.shields.io/badge/Version-4.4-da282a) [![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/cobaltstrike?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/cobaltstrike) [![CobaltStrike Docker Build](https://github.com/XRSec/CobaltStrike-Docker/actions/workflows/CobaltStrike_Docker_Build.yml/badge.svg)](https://github.com/XRSec/CobaltStrike-Docker/actions/workflows/CobaltStrike_Docker_Build.yml)
+![version](https://img.shields.io/badge/Version-4.4-da282a) [![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/cobaltstrike?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/cobaltstrike) [![CobaltStrike Update](https://github.com/XRSec/CobaltStrike-Update/actions/workflows/CobaltStrike_Docker_Build.yml/badge.svg)](https://github.com/XRSec/CobaltStrike-Update/actions/workflows/CobaltStrike_Docker_Build.yml)
 
 ## ~~[AWVS14 Update](https://hub.docker.com/r/xrsec/awvs)~~
 ![version](https://img.shields.io/badge/Version-14.4.210913167-da282a)  [![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/awvs?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/awvs) [![AWVS14_Update](https://github.com/XRSec/AWVS14-Update/actions/workflows/AWVS14_Update.yml/badge.svg)](https://github.com/XRSec/AWVS14-Update/actions/workflows/AWVS14_Update.yml)
