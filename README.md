@@ -45,8 +45,10 @@
 
 即时通讯(IM)系统
 
+## Building ...
+
+<hr>
+
 ## About Me 
 
-![About](https://img.shields.io/badge/XRSec-troy-da282a)      ![about](https://img.shields.io/badge/低调求发展-潜心习安全-da282a)        [![Email](https://img.shields.io/badge/Email-troy@zygd.site-da282a)](mailto:troy@zygd.site)        [![My Blog](https://img.shields.io/badge/Blog-blog.zygd.site-da282a)](https://blog.zygd.site)
-
-## Building ...
+![About](https://img.shields.io/badge/XRSec-troy-da282a) ![about](https://img.shields.io/badge/低调求发展-潜心习安全-da282a) [![My Blog](https://img.shields.io/badge/Blog-blog.zygd.site-da282a)](https://blog.zygd.site)
