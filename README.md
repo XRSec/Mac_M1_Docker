@@ -1,5 +1,13 @@
 # [Mac M1 Docker Adaptation plans](https://m1-docker.vercel.app/)
 
+> WARNING: The requested image's platform (linux/amd64) does not match the detected host platform (linux/arm64/v8) and no specific platform was r
+equested
+
+![Snipaste_2021-11-10_16-41-03](https://user-images.githubusercontent.com/73819467/141081019-36fed685-f9e2-4e96-b488-1072714e8dc9.jpg)
+
+![Snipaste_2021-11-10_16-39-58](https://user-images.githubusercontent.com/73819467/141081004-ff2035f6-4e44-4a25-9c52-f44d84270ace.jpg)
+
+
 ## [CobaltStrike Update](https://cobaltstrike.vercel.app/)
 ![version](https://img.shields.io/badge/Version-4.4-da282a) [![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/cobaltstrike?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/cobaltstrike) [![CobaltStrike Update](https://github.com/XRSec/CobaltStrike-Update/actions/workflows/CobaltStrike_Docker_Build.yml/badge.svg)](https://github.com/XRSec/CobaltStrike-Update/actions/workflows/CobaltStrike_Docker_Build.yml)
 
