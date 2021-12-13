@@ -43,7 +43,7 @@ equested
 
 ## [next-terminal](https://hub.docker.com/r/xrsec/next-terminal)
 
-[![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/next-terminal?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/next-terminal) [![Docker next-terminal Build](https://github.com/XRSec/next-terminal/actions/workflows/Docker_Build.yml/badge.svg)](https://github.com/XRSec/next-terminal/actions/workflows/Docker_Build.yml)
+[![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/next-terminal?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/xrsec/next-terminal) [![Docker next-terminal Build](https://github.com/dushixiang/next-terminal/actions/workflows/docker-next-terminal.yml/badge.svg)](https://github.com/dushixiang/next-terminal/actions/workflows/docker-next-terminal.yml)
 
 ## [Guacd_Docker](https://blog.zygd.site/Guacd_Docker.html)
 
